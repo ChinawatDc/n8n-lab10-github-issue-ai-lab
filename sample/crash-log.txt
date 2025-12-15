@@ -1,0 +1,4 @@
+﻿[2025-12-15 10:00:00] ERROR: Unhandled exception
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MyApp.Auth.LoginService.Login(String username, String password)
+   at MyApp.UI.LoginPage.OnSubmit()
